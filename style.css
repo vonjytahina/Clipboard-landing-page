@@ -454,3 +454,8 @@
   max-width: 300px;
 }
 }
+@media screen and (max-width: 375px) {
+.container header {
+  background: url('images/bg-header-mobile.png') no-repeat;
+}
+}
